@@ -1,0 +1,4 @@
+git clone https://github.com/LLK/scratch-gui.git
+cd scratch-gui
+npm install
+npm start
